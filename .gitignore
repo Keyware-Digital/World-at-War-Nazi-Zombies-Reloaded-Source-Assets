@@ -40,12 +40,15 @@ binkw32.dll
 cod.bmp
 codlogo.bmp
 CoDWaW.exe
+CoDWaW.exe.bak
+d3d9.dll
 CoDWaW.ico
 CoDWaWmp.exe
 End User License Agreement (Release of Map Tools to the Public for Call of Duty WW-PC).doc
 install.log
 localization.txt
 mp_tool.exe
+Read Me.txt
 README.txt
 sp_tool.exe
 version.inf
