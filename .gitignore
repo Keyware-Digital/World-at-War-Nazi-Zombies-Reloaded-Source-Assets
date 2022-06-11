@@ -54,7 +54,7 @@ model_export/viewmodels
 model_export/american
 xanim_export/viewmodel
 xanim_export/xanim_viewmodel.gdt
-model_export/anim_dependancies/base_character/base_character.XMODEL_EXPORT
+model_export/anim_dependancies/
 source_data/COD4_from_MOD_TOOLS_weaponsettings_mp.bak
 source_data/COD4_MP_weaponsettings_mp.bak
 source_data/cod4_weaponsettings_mp.bak
