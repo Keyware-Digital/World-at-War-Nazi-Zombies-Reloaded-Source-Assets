@@ -13,7 +13,7 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
-### COD 5 MOD FILES ###
+### COD 5 GENERIC FILES ###
 
 console.log
 aitype/
