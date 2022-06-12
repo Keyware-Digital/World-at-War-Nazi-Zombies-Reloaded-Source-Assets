@@ -1,0 +1,433 @@
+{
+	"attach_t7_loot_smg_ppsh_dbal_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_dbal_world\\attach_t7_loot_smg_ppsh_dbal_world_LOD0.xmodel_export"
+		"highLodDist" "0.008663"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_silencer_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_silencer_world\\attach_t7_loot_smg_ppsh_silencer_world_LOD0.xmodel_export"
+		"highLodDist" "0.032643"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_bolt_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_bolt_world\\attach_t7_loot_smg_ppsh_bolt_world_LOD0.xmodel_export"
+		"highLodDist" "0.035916"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_barrel_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_barrel_view\\attach_t7_loot_smg_ppsh_barrel_view_LOD0.xmodel_export"
+		"highLodDist" "0.052885"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_barrel_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_barrel_world\\attach_t7_loot_smg_ppsh_barrel_world_LOD0.xmodel_export"
+		"highLodDist" "0.066912"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_stock_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_stock_world\\attach_t7_loot_smg_ppsh_stock_world_LOD0.xmodel_export"
+		"highLodDist" "0.046607"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_fast_mag_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_fast_mag_world\\attach_t7_loot_smg_ppsh_fast_mag_world_LOD0.xmodel_export"
+		"highLodDist" "0.026897"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_silencer_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_silencer_view\\attach_t7_loot_smg_ppsh_silencer_view_LOD0.xmodel_export"
+		"highLodDist" "0.025566"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_bolt_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_bolt_view\\attach_t7_loot_smg_ppsh_bolt_view_LOD0.xmodel_export"
+		"highLodDist" "0.017520"
+		"type" "rigid"
+	}
+	"wpn_t7_zmb_hd_stg44_mag_world" ( "xmodel.gdf" )
+	{
+		"filename" "wpn_t7_zmb_hd_stg44_mag_world\\wpn_t7_zmb_hd_stg44_mag_world_LOD0.xmodel_export"
+		"highLodDist" "0.156494"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_dbal_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_dbal_view\\attach_t7_loot_smg_ppsh_dbal_view_LOD0.xmodel_export"
+		"highLodDist" "0.007038"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_ext_mag_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_ext_mag_world\\attach_t7_loot_smg_ppsh_ext_mag_world_LOD0.xmodel_export"
+		"highLodDist" "0.031110"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_stock_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_stock_view\\attach_t7_loot_smg_ppsh_stock_view_LOD0.xmodel_export"
+		"highLodDist" "0.046607"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_fast_mag_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_fast_mag_view\\attach_t7_loot_smg_ppsh_fast_mag_view_LOD0.xmodel_export"
+		"highLodDist" "0.021652"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_fmj_grip_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_fmj_grip_world\\attach_t7_loot_smg_ppsh_fmj_grip_world_LOD0.xmodel_export"
+		"highLodDist" "0.010460"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_ext_mag_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_ext_mag_view\\attach_t7_loot_smg_ppsh_ext_mag_view_LOD0.xmodel_export"
+		"highLodDist" "0.030396"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_foregrip_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_foregrip_view\\attach_t7_loot_smg_ppsh_foregrip_view_LOD0.xmodel_export"
+		"highLodDist" "0.017968"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_foregrip_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_foregrip_world\\attach_t7_loot_smg_ppsh_foregrip_world_LOD0.xmodel_export"
+		"highLodDist" "0.022476"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_grip_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_grip_view\\attach_t7_loot_smg_ppsh_grip_view_LOD0.xmodel_export"
+		"highLodDist" "0.009226"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_fmj_grip_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_fmj_grip_view\\attach_t7_loot_smg_ppsh_fmj_grip_view_LOD0.xmodel_export"
+		"highLodDist" "0.010456"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_grip_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_grip_world\\attach_t7_loot_smg_ppsh_grip_world_LOD0.xmodel_export"
+		"highLodDist" "0.009226"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_handguard_world" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_handguard_world\\attach_t7_loot_smg_ppsh_handguard_world_LOD0.xmodel_export"
+		"highLodDist" "0.015102"
+		"type" "rigid"
+	}
+	"attach_t7_loot_smg_ppsh_handguard_view" ( "xmodel.gdf" )
+	{
+		"filename" "attach_t7_loot_smg_ppsh_handguard_view\\attach_t7_loot_smg_ppsh_handguard_view_LOD0.xmodel_export"
+		"highLodDist" "0.011488"
+		"type" "rigid"
+	}
+	"wpn_t7_zmb_ppsh_mag_view" ( "xmodel.gdf" )
+	{
+		"filename" "wpn_t7_zmb_ppsh_mag_view\\wpn_t7_zmb_ppsh_mag_view_LOD0.xmodel_export"
+		"highLodDist" "0.031110"
+		"type" "rigid"
+	}
+	"wpn_t7_zmb_ppsh_mag_world" ( "xmodel.gdf" )
+	{
+		"filename" "wpn_t7_zmb_ppsh_mag_world\\wpn_t7_zmb_ppsh_mag_world_LOD0.xmodel_export"
+		"highLodDist" "0.031110"
+		"type" "rigid"
+	}
+	"wpn_t7_zmb_ppsh_view" ( "xmodel.gdf" )
+	{
+		"filename" "wpn_t7_zmb_ppsh_view\\wpn_t7_zmb_ppsh_view_LOD0.xmodel_export"
+		"highLodDist" "0.025819"
+		"type" "rigid"
+	}
+	"wpn_t7_zmb_ppsh_world" ( "xmodel.gdf" )
+	{
+		"filename" "wpn_t7_zmb_ppsh_world\\wpn_t7_zmb_ppsh_world_LOD0.xmodel_export"
+		"highLodDist" "0.026150"
+		"type" "rigid"
+	}
+	"wpn_t7_zmb_hd_stg44_world" ( "xmodel.gdf" )
+	{
+		"filename" "wpn_t7_zmb_hd_stg44_world\\wpn_t7_zmb_hd_stg44_world_LOD0.xmodel_export"
+		"highLodDist" "0.048127"
+		"type" "rigid"
+	}
+	"wpn_t7_zmb_hd_stg44_view" ( "xmodel.gdf" )
+	{
+		"filename" "wpn_t7_zmb_hd_stg44_view\\wpn_t7_zmb_hd_stg44_view_LOD0.xmodel_export"
+		"highLodDist" "0.037311"
+		"type" "rigid"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_barrel" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_barrel_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_barrel_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_barrel_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_fastmag" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_fastmag_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_fastmag_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_fastmag_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_ppsh_sights" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_sights_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_sights_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_sights_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_decal" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_decals_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_decals_n.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_silencer" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_silencer_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_silencer_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_silencer_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_bolt" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_bolt_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_bolt_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_bolt_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_ppsh_stock" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_stock_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_stock_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_stock_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_dbal" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_dbal_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_dbal_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_dbal_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_loot_smg_ppsh_body_base" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_loot_smg_ppsh_body_base_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_loot_smg_ppsh_body_base_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_loot_smg_ppsh_body_base_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_bullet_case" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\$black_color.tga"
+		"normalMap" "model_export\\_images\\i_mtl_attach_t7_bullet_n.tga"
+		"specColorMap" "model_export\\_images\\$white_specular.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_ext_mag" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_ext_mag_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_ext_mag_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_ext_mag_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_bullet" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\$black_color.tga"
+		"normalMap" "model_export\\_images\\i_mtl_attach_t7_bullet_n.tga"
+		"specColorMap" "model_export\\_images\\$white_specular.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_foregrip" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_foregrip_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_foregrip_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_foregrip_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_loot_smg_ppsh_burlap" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_mtl_veh_t7_dlc_base_paint_02_c.tga"
+		"normalMap" "model_export\\_images\\$normal.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_loot_smg_ppsh_leather" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_mtl_veh_t7_dlc_base_paint_04_c.tga"
+		"normalMap" "model_export\\_images\\$normal.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"t7_metal_worn_chrome_base_rust_dark" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\$black_color.tga"
+		"normalMap" "model_export\\_images\\$normal.tga"
+		"specColorMap" "model_export\\_images\\$specular_mask.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_ppsh_drummag" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_drummag_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_drummag_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_drummag_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_handguard" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_handguard_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_handguard_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_handguard_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_hd_stg44_body_b" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_b_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_b_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_b_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_attach_t7_loot_smg_ppsh_stock" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_stock_c.tga"
+		"normalMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_stock_n.tga"
+		"specColorMap" "model_export\\_images\\i_attach_t7_loot_smg_ppsh_stock_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_ppsh_body_base" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_body_base_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_body_base_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_ppsh_body_base_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_hd_stg44_mag" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_mag_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_mag_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_mag_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_hd_stg44_body_a" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_a_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_a_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_a_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_hd_stg44_stock" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_stock_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_stock_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_stock_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_hd_stg44_body_front" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_front_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_front_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_body_front_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+	"mtl_wpn_t7_zmb_hd_stg44_sights" ( "material.gdf" )
+	{
+		"materialType" "model phong"
+		"blendFunc" "Replace*"
+		"colorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_sights_c.tga"
+		"normalMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_sights_n.tga"
+		"specColorMap" "model_export\\_images\\i_wpn_t7_zmb_hd_stg44_sights_s.tga"
+		"surfaceType" "<none>"
+		"template" "material.template"
+	}
+}
