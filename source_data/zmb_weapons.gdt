@@ -3365,7 +3365,7 @@
 		"zFeather" "0"
 		"zFeatherDepth" "40"
 	}
-	"mtl_zmb_wpn_ppsh41_drum_mag" ( "material.gdf" )
+	"mtl_zmb_wpn_ppsh41_drum" ( "material.gdf" )
 	{
 		"aiClip" "0"
 		"aiSightClip" "0"
@@ -3526,7 +3526,7 @@
 		"colorLabel13" ""
 		"colorLabel14" ""
 		"colorLabel15" ""
-		"colorMap" "model_export\\_images\\mtl_zmb_wpn_ppsh41\\mtl_zmb_wpn_ppsh41_drum_mag\\mtl_zmb_wpn_ppsh41_drum_mag_c.tga"
+		"colorMap" "model_export\\_images\\mtl_zmb_wpn_ppsh41\\mtl_zmb_wpn_ppsh41_drum\\mtl_zmb_wpn_ppsh41_drum_c.tga"
 		"colorMap00" ""
 		"colorMap01" ""
 		"colorMap02" ""
@@ -3654,7 +3654,7 @@
 		"nopicmipNormal" "0"
 		"nopicmipSpecular" "0"
 		"noReceiveDynamicShadow" "0"
-		"normalMap" "model_export\\_images\\mtl_zmb_wpn_ppsh41\\mtl_zmb_wpn_ppsh41_drum_mag\\mtl_zmb_wpn_ppsh41_drum_mag_n.tga"
+		"normalMap" "model_export\\_images\\mtl_zmb_wpn_ppsh41\\mtl_zmb_wpn_ppsh41_drum\\mtl_zmb_wpn_ppsh41_drum_n.tga"
 		"noSteps" "0"
 		"noStreamColor" "0"
 		"notInBoats" "0"
@@ -3681,7 +3681,7 @@
 		"sky" "0"
 		"slick" "0"
 		"sort" "<default>*"
-		"specColorMap" "model_export\\_images\\mtl_zmb_wpn_ppsh41\\mtl_zmb_wpn_ppsh41_drum_mag\\mtl_zmb_wpn_ppsh41_drum_mag_s.tga"
+		"specColorMap" "model_export\\_images\\mtl_zmb_wpn_ppsh41\\mtl_zmb_wpn_ppsh41_drum\\mtl_zmb_wpn_ppsh41_drum_s.tga"
 		"specColorStrength" "100"
 		"specDetailMap" ""
 		"specDetailScaleX" "8"
@@ -4835,37 +4835,11 @@
 		"type" "relative"
 		"useBones" "0"
 	}
-	"zmb_wpn_m1921_pullout_quick" ( "xanim.gdf" )
-	{
-		"angleError" "0.05"
-		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_pullout_quick.xanim_export"
-		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
-		"node" ""
-		"notetrackfile" ""
-		"translationError" "0.025"
-		"type" "relative"
-		"useBones" "0"
-	}
 	"zmb_wpn_m1921_putaway" ( "xanim.gdf" )
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
 		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_putaway.xanim_export"
-		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
-		"node" ""
-		"notetrackfile" ""
-		"translationError" "0.025"
-		"type" "relative"
-		"useBones" "0"
-	}
-	"zmb_wpn_m1921_putaway_quick" ( "xanim.gdf" )
-	{
-		"angleError" "0.05"
-		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_putaway_quick.xanim_export"
 		"looping" "0"
 		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
@@ -4964,9 +4938,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_ads_down.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_ad_down.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -4977,9 +4951,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_ads_fire.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_ads_fire.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -4990,9 +4964,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_ads_up.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_ad_up.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -5003,9 +4977,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_fire.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_fire.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -5016,9 +4990,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_first_raise.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_first_raise.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -5029,9 +5003,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_idle.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_idle.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -5042,22 +5016,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_pullout.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_pullout.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
-		"node" ""
-		"notetrackfile" ""
-		"translationError" "0.025"
-		"type" "relative"
-		"useBones" "0"
-	}
-	"zmb_wpn_ppsh41_pullout_quick" ( "xanim.gdf" )
-	{
-		"angleError" "0.05"
-		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_pullout_quick.xanim_export"
-		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -5068,22 +5029,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_putaway.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_putaway.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
-		"node" ""
-		"notetrackfile" ""
-		"translationError" "0.025"
-		"type" "relative"
-		"useBones" "0"
-	}
-	"zmb_wpn_ppsh41_putaway_quick" ( "xanim.gdf" )
-	{
-		"angleError" "0.05"
-		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_putaway_quick.xanim_export"
-		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -5094,9 +5042,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_reload.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_reload.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -5107,9 +5055,9 @@
 	{
 		"angleError" "0.05"
 		"boneStabilizers" ""
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_reload_empty.xanim_export"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_reload_empty.xanim_export"
 		"looping" "0"
-		"model" "zmb_wpn_m1921\\zmb_wpn_m1921_animated_LOD0.XMODEL_EXPORT"
+		"model" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_animated_LOD0.XMODEL_EXPORT"
 		"node" ""
 		"notetrackfile" ""
 		"translationError" "0.025"
@@ -5124,7 +5072,7 @@
 		"collisionLOD" "None"
 		"cosmetic" "0"
 		"crossFadeLods" "0"
-		"filename" "zmb_wpn_m1921\\zmb_wpn_m1921_view_LOD0.XMODEL_EXPORT"
+		"filename" "zmb_wpn_ppsh41\\zmb_wpn_ppsh41_view_LOD0.XMODEL_EXPORT"
 		"forceLowestLodRigid" "0"
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
