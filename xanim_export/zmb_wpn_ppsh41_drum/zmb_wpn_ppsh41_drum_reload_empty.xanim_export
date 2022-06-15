@@ -1,4 +1,4 @@
-// Export time: Tue Jun 14 01:09:52 2022
+// Export time: Wed Jun 15 03:54:53 2022
 
 ANIMATION
 VERSION 3
@@ -48056,7 +48056,13 @@ Z 0.000000 0.000000 1.000000
 NOTETRACKS
 
 PART 0
-NUMTRACKS 0
+NUMTRACKS 1
+
+NOTETRACK 0
+NUMKEYS 3
+FRAME 17 "gr_zmb_wpn_ppsh41_drum_mag_out_plr"
+FRAME 51 "gr_zmb_wpn_ppsh41_drum_mag_in_plr"
+FRAME 68 "gr_zmb_wpn_ppsh41_drum_bolt_plr"
 
 PART 1
 NUMTRACKS 0

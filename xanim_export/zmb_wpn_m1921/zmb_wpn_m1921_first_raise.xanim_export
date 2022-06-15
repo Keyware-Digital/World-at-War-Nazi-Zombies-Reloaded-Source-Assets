@@ -1,4 +1,4 @@
-// Export time: Tue Jun 14 23:45:32 2022
+// Export time: Wed Jun 15 04:17:06 2022
 
 ANIMATION
 VERSION 3
@@ -19551,7 +19551,7 @@ NUMTRACKS 1
 
 NOTETRACK 0
 NUMKEYS 1
-FRAME 15 "gr_zmb_wpn_m1921_bolt_release_plr"
+FRAME 15 "gr_zmb_wpn_m1921_bolt_plr"
 
 PART 1
 NUMTRACKS 0
