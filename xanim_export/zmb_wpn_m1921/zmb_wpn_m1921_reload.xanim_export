@@ -1,4 +1,4 @@
-// Export time: Mon Jun 13 22:33:35 2022
+// Export time: Tue Jun 14 23:37:11 2022
 
 ANIMATION
 VERSION 3
@@ -40061,7 +40061,12 @@ Z 0.000000 0.000000 1.000000
 NOTETRACKS
 
 PART 0
-NUMTRACKS 0
+NUMTRACKS 1
+
+NOTETRACK 0
+NUMKEYS 2
+FRAME 53 "gr_zmb_wpn_m1921_mag_in_plr"
+FRAME 20 "gr_zmb_wpn_m1921_mag_out_plr"
 
 PART 1
 NUMTRACKS 0
