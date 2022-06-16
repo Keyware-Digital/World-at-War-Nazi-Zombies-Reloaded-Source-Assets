@@ -1,4 +1,4 @@
-// Export time: Tue Jun 14 06:48:58 2022
+// Export time: Thu Jun 16 05:33:31 2022
 
 ANIMATION
 VERSION 3
@@ -24927,7 +24927,12 @@ Z 0.000000 0.000000 1.000000
 NOTETRACKS
 
 PART 0
-NUMTRACKS 0
+NUMTRACKS 1
+
+NOTETRACK 0
+NUMKEYS 2
+FRAME 17 "gr_zmb_wpn_stg44_pap_bolt_back_plr"
+FRAME 24 "gr_zmb_wpn_stg44_pap_bolt_release_plr"
 
 PART 1
 NUMTRACKS 0
