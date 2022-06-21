@@ -6768,7 +6768,7 @@
 		"sky" "0"
 		"slick" "0"
 		"sort" "<default>*"
-		"specColorMap" ""
+		"specColorMap" "model_export\\_images\\zmb_wpn_raygun_mk1_v2\\zmb_wpn_raygun_mk1_v2_glow\\mtl_zmb_wpn_raygun_mk1_v2_glow_s.tga"
 		"specColorStrength" "100"
 		"specDetailMap" ""
 		"specDetailScaleX" "8"
