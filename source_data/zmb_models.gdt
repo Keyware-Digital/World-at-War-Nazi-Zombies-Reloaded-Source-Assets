@@ -335,7 +335,7 @@
 		"stencilOpZFail2" "Keep"
 		"structural" "0"
 		"subLayerScroll" "0"
-		"surfaceType" "<none>"
+		"surfaceType" "metal"
 		"template" "material.template"
 		"tessSize" "0"
 		"texScroll" "0"
