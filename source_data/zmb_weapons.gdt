@@ -13949,62 +13949,6 @@
 		"zFeather" "0"
 		"zFeatherDepth" "40"
 	}
-	"zmb_player_dolphin_dive" ( "xmodel.gdf" )
-	{
-		"allowHidingAllParts" "0"
-		"boneControllers" ""
-		"boneStabilizers" ""
-		"collisionLOD" "None"
-		"cosmetic" "0"
-		"crossFadeLods" "0"
-		"filename" "zmb_player_dolphin_dive\\zmb_player_dolphin_dive.xmodel_export"
-		"forceLowestLodRigid" "0"
-		"forceLowLodRigid" "0"
-		"forceMediumLodRigid" "0"
-		"groundLit" "0"
-		"highLodDist" "0"
-		"hitBoxModel" ""
-		"lowestLod" ""
-		"lowestLodDist" "0"
-		"lowLod" ""
-		"lowLodDist" "0"
-		"mediumLod" ""
-		"mediumLodDist" "0"
-		"noRadialNormals" "0"
-		"physicsConstraints" ""
-		"physicsPreset" ""
-		"radialOriginX" "0"
-		"radialOriginY" "0"
-		"radialOriginZ" "0"
-		"skinOverride" ""
-		"type" "rigid"
-	}
-	"zmb_player_dolphin_dive_action" ( "xanim.gdf" )
-	{
-		"angleError" "0.05"
-		"boneStabilizers" ""
-		"filename" "zmb_player_dolphin_dive\\zmb_player_dolphin_dive_action.xanim_export"
-		"looping" "0"
-		"model" "zmb_player_dolphin_dive\\zmb_player_dolphin_dive.xmodel_export"
-		"node" ""
-		"notetrackfile" ""
-		"translationError" "0.025"
-		"type" "relative"
-		"useBones" "0"
-	}
-	"zmb_player_dolphin_dive_land" ( "xanim.gdf" )
-	{
-		"angleError" "0.05"
-		"boneStabilizers" ""
-		"filename" "zmb_player_dolphin_dive\\zmb_player_dolphin_dive_land.xanim_export"
-		"looping" "0"
-		"model" "zmb_player_dolphin_dive\\zmb_player_dolphin_dive.xmodel_export"
-		"node" ""
-		"notetrackfile" ""
-		"translationError" "0.025"
-		"type" "relative"
-		"useBones" "0"
-	}
 	"zmb_view_hands_death" ( "xmodel.gdf" )
 	{
 		"allowHidingAllParts" "0"
