@@ -14149,7 +14149,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "1e+006"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14165,7 +14165,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "viewhands"
 	}
 	"zmb_wpn_m1921_world" ( "xmodel.gdf" )
 	{
@@ -14180,7 +14180,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "100"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14196,7 +14196,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "multiplayer body"
 	}
 	"zmb_wpn_ppsh41_drum_ads_down" ( "xanim.gdf" )
 	{
@@ -14341,7 +14341,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "1e+006"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14357,7 +14357,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "viewhands"
 	}
 	"zmb_wpn_ppsh41_drum_world" ( "xmodel.gdf" )
 	{
@@ -14372,7 +14372,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "100"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14388,7 +14388,7 @@
 		"radialOriginY" "-5"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "multiplayer body"
 	}
 	"zmb_wpn_raygun_mk1_v2_ads_down" ( "xanim.gdf" )
 	{
@@ -14507,7 +14507,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "1e+006"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14523,7 +14523,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "viewhands"
 	}
 	"zmb_wpn_raygun_mk1_v2_world" ( "xmodel.gdf" )
 	{
@@ -14538,7 +14538,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "100"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14554,7 +14554,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "multiplayer body"
 	}
 	"zmb_wpn_sten_mk5_ads_down" ( "xanim.gdf" )
 	{
@@ -14699,7 +14699,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "1e+006"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14715,7 +14715,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "viewhands"
 	}
 	"zmb_wpn_sten_mk5_world" ( "xmodel.gdf" )
 	{
@@ -14730,7 +14730,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "100"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14746,7 +14746,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "multiplayer body"
 	}
 	"zmb_wpn_stg44_pap_ads_down" ( "xanim.gdf" )
 	{
@@ -14891,7 +14891,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "1e+006"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14907,7 +14907,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "viewhands"
 	}
 	"zmb_wpn_stg44_pap_world" ( "xmodel.gdf" )
 	{
@@ -14922,7 +14922,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "100"
+		"highLodDist" "250"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"
@@ -14938,6 +14938,6 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "multiplayer body"
 	}
 }
