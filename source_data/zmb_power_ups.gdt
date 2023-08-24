@@ -4256,7 +4256,7 @@
 		"forceLowLodRigid" "0"
 		"forceMediumLodRigid" "0"
 		"groundLit" "0"
-		"highLodDist" "1e+006"
+		"highLodDist" "100"
 		"hitBoxModel" ""
 		"lowestLod" ""
 		"lowestLodDist" "0"

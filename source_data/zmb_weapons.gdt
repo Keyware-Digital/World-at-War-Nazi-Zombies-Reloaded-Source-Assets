@@ -14385,7 +14385,7 @@
 		"physicsConstraints" ""
 		"physicsPreset" ""
 		"radialOriginX" "0"
-		"radialOriginY" "0"
+		"radialOriginY" "-5"
 		"radialOriginZ" "0"
 		"skinOverride" ""
 		"type" "animated"
