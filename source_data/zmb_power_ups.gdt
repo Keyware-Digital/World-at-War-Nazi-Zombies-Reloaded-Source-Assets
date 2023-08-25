@@ -4303,6 +4303,6 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "animated"
+		"type" "rigid"
 	}
 }

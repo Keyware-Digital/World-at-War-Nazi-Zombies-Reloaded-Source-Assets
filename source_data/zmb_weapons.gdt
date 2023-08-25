@@ -13968,7 +13968,7 @@
 		"lowestLodDist" "0"
 		"lowLod" ""
 		"lowLodDist" "0"
-		"materials" ""
+		"materials" "mtl_viewmodel_marine_cloth\r\nmtl_viewmodel_marine_skin\r\nmtl_viewmodel_marine_button\r\n"
 		"mediumLod" ""
 		"mediumLodDist" "0"
 		"noRadialNormals" "0"
@@ -13978,7 +13978,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "rigid"
+		"type" "viewhands"
 	}
 	"zmb_view_hands_death_action" ( "xanim.gdf" )
 	{
@@ -14165,7 +14165,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "viewhands"
+		"type" "animated"
 	}
 	"zmb_wpn_m1921_world" ( "xmodel.gdf" )
 	{
@@ -14196,7 +14196,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "multiplayer body"
+		"type" "rigid"
 	}
 	"zmb_wpn_ppsh41_drum_ads_down" ( "xanim.gdf" )
 	{
@@ -14357,7 +14357,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "viewhands"
+		"type" "animated"
 	}
 	"zmb_wpn_ppsh41_drum_world" ( "xmodel.gdf" )
 	{
@@ -14385,10 +14385,10 @@
 		"physicsConstraints" ""
 		"physicsPreset" ""
 		"radialOriginX" "0"
-		"radialOriginY" "-5"
+		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "multiplayer body"
+		"type" "rigid"
 	}
 	"zmb_wpn_raygun_mk1_v2_ads_down" ( "xanim.gdf" )
 	{
@@ -14523,7 +14523,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "viewhands"
+		"type" "animated"
 	}
 	"zmb_wpn_raygun_mk1_v2_world" ( "xmodel.gdf" )
 	{
@@ -14554,7 +14554,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "multiplayer body"
+		"type" "rigid"
 	}
 	"zmb_wpn_sten_mk5_ads_down" ( "xanim.gdf" )
 	{
@@ -14746,7 +14746,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "multiplayer body"
+		"type" "rigid"
 	}
 	"zmb_wpn_stg44_pap_ads_down" ( "xanim.gdf" )
 	{
@@ -14907,7 +14907,7 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "viewhands"
+		"type" "animated"
 	}
 	"zmb_wpn_stg44_pap_world" ( "xmodel.gdf" )
 	{
@@ -14938,6 +14938,6 @@
 		"radialOriginY" "0"
 		"radialOriginZ" "0"
 		"skinOverride" ""
-		"type" "multiplayer body"
+		"type" "rigid"
 	}
 }
